@@ -1,0 +1,1 @@
+Gradio + langchain pdf summarisation based on https://medium.com/geekculture/building-a-pdf-summarization-app-using-gradio-and-langchain-cb2561ccd7e7
